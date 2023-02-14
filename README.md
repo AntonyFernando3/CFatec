@@ -28,7 +28,6 @@ A disciplina de sistema operacional abrange, apresentação de um sistema operac
 <h1>DISCIPLINA DE BANCO DE DADOS</h1>
     
 <h3 align="justify">
-Estrutura de dados é o ramo da computação que estuda os diversos mecanismos de organização de dados para atender aos diferentes requisitos de processamento. As estruturas de dados definem a organização, métodos de acesso e opções de processamento para a informação manipulada pelo programa.
 
 - Sintaxe da Linguagem C
 - Introdução aos conceitos de Estrutura de Dados
@@ -47,11 +46,10 @@ Estrutura de dados é o ramo da computação que estuda os diversos mecanismos d
 <br>
 
 <br>
-<h1>EMENTA</h1> 
+<h1>EMENTA - ESTRUTURA DE DADOS</h1> 
 
- 
  <h3> 
-     Comandos de linguagens usadas na construção e estruturação de sites para a Web, com páginas dinâmi­cas e interativas. Definição de layouts e formatação em geral. Adição de algorítmos usando laços, matrizes, datas, funções e condições. Introdução a Orientação a Objetos utilizando objetos, métodos e propriedades. Integração com Banco de Dados. Exercícios práticos com projeto de criação de sites
+     
      
 </h3>
     
