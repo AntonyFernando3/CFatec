@@ -47,11 +47,10 @@ A disciplina de sistema operacional abrange, apresentação de um sistema operac
 
 <br>
 <h1>EMENTA - ESTRUTURA DE DADOS</h1> 
-Estrutura de dados é o ramo da computação que estuda os diversos mecanismos de organização de dados para atender aos diferentes requisitos de processamento. As estruturas de dados definem a organização, métodos de acesso e opções de processamento para a informação manipulada pelo programa.
 <br>
  <h3> 
-     
-     
+Estrutura de dados é o ramo da computação que estuda os diversos mecanismos de organização de dados para atender aos diferentes requisitos de processamento. As estruturas de dados definem a organização, métodos de acesso e opções de processamento para a informação manipulada pelo programa.
+<br>
 </h3>
     
     
