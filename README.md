@@ -28,7 +28,21 @@ A disciplina de sistema operacional abrange, apresentação de um sistema operac
 <h1>DISCIPLINA DE BANCO DE DADOS</h1>
     
 <h3 align="justify">
-A disciplina de Banco de Dados abrange, sintaxe da linguagem C, introdução aos conceitos de estrutura de dados, revisão de conceitos vetores e matrizes, recursividade e funções recursivas, tipo abstrato
+Estrutura de dados é o ramo da computação que estuda os diversos mecanismos de organização de dados para atender aos diferentes requisitos de processamento. As estruturas de dados definem a organização, métodos de acesso e opções de processamento para a informação manipulada pelo programa.
+
+- Sintaxe da Linguagem C
+- Introdução aos conceitos de Estrutura de Dados
+- Revisão de conceitos: vetores
+- Revisão de conceitos: matrizes
+- Recursividade e funções recursivas
+- Tipo abstrato de dados (TAD)
+- Ponteiro
+- Pilhas, filas, listas ligadas por ponteiros
+- Listas duplas
+- Árvores binárias de busca
+- Complexidade computacional
+- Grafos
+
 </h3>
 <br>
 
