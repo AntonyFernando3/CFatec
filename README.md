@@ -12,9 +12,9 @@
  
 <br>
 <h1>REPOSITÓRIO C FATEC</h1>
-<h3 align="justify"> Este repositório e dedicado ao armazenamento dos códigos de Sistemas Operacionais I e II e Estrutura de Banco de Dados.
+<h3 align="justify"> Este repositório e dedicado ao armazenamento dos códigos de Sistemas Operacionais I e II e de Banco de Dados.
 
-Todas as listas de atividades foram realizadas na Faculdade de Tecnologia de Jundiaí (FATEC) na disciplica de Sistemas Operacionais I e II com a orientado Paula Varela Floriano e Estrutura de Banco de Dados com o orientador Gerson Pastre de Oliveira. </h4>
+Todas as listas de atividades foram realizadas na Faculdade de Tecnologia de Jundiaí (FATEC) na disciplica de Sistemas Operacionais I e II com a orientado Paula Varela Floriano e Estrutura de Dados com o orientador Gerson Pastre de Oliveira. </h4>
 
 
 <br>
@@ -25,10 +25,10 @@ A disciplina de sistema operacional abrange, apresentação de um sistema operac
 </h3>
 <br>
 
-<h1>DISCIPLINA DE ESTRUTURA DE BANCO DE DADOS</h1>
+<h1>DISCIPLINA DE BANCO DE DADOS</h1>
     
 <h3 align="justify">
-A disciplina de sistema operacional abrange, apresentação de um sistema operacional específico utilizado em ambiente corporativo. Requisitos de hardware para instalação do sistema. Processo de instalação, personalização, operação, administração e segurança sobre o sistema operacional focado.  Elaboração de projetos de seleção e implantação de um sistema operacional.
+A disciplina de Banco de Dados abrange, sintaxe da linguagem C, introdução aos conceitos de estrutura de dados, revisão de conceitos vetores e matrizes, recursividade e funções recursivas, tipo abstrato
 </h3>
 <br>
 
