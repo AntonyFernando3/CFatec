@@ -22,14 +22,14 @@ Todas as listas de atividades foram realizadas na Faculdade de Tecnologia de Jun
     
 <h3 align="justify">
 A disciplina de sistema operacional abrange, apresentação de um sistema operacional específico utilizado em ambiente corporativo. 
-    
+  
 - Requisitos de hardware para instalação do sistema
 - Processo de instalação
 - Processo de personalização
 - Processo de operação
 - Processo de administração 
 - Processo de segurança 
-    
+ 
 sobre o sistema operacional focado. Elaboração de projetos de seleção e implantação de um sistema operacional.
 </h3>
 <br>
@@ -52,21 +52,18 @@ sobre o sistema operacional focado. Elaboração de projetos de seleção e impl
 - Grafos
 
 </h3>
-<br>
 
-<br>
-<h1>EMENTA - ESTRUTURA DE DADOS</h1> 
- <h3 align="justify"> 
-Estrutura de dados é o ramo da computação que estuda os diversos mecanismos de organização de dados para atender aos diferentes requisitos de processamento. As estruturas de dados definem a organização, métodos de acesso e opções de processamento para a informação manipulada pelo programa.
-<br>
-</h3>
-    
-    
+      
 <br>
 
 <h1>OBJETIVO SISTEMAS OPERACIONAIS I E II</h1>
-<h3 align="justify">Solucionar problemas utilizando a lógica de programação e a implementação de programas por meio de uma linguagem de programação.</h3>
+<h3 align="justify">Objetivos Gerais: Introduzir o estudante aos conceitos e princípios básicos dos sistemas operacionais de computadores digitais, observando os sistemas operacionais como gerente dos recursos computacional e como elemento de interface entre programas de aplicação e os recursos da máquina.</h3>
+
+<br>
     
+<h1>OBJETIVO DE ESTRUTURA DE DADOS</h1> 
+<h3 align="justify"> Estrutura de dados é o ramo da computação que estuda os diversos mecanismos de organização de dados para atender aos diferentes requisitos de processamento. As estruturas de dados definem a organização, métodos de acesso e opções de processamento para a informação manipulada pelo programa. </h3>
+
 </div>
 
 
