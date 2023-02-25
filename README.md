@@ -22,14 +22,14 @@ Todas as listas de atividades foram realizadas na Faculdade de Tecnologia de Jun
     
 <h3 align="justify">
 A disciplina de sistema operacional abrange, apresentação de um sistema operacional específico utilizado em ambiente corporativo. 
-
+    
 - Requisitos de hardware para instalação do sistema
 - Processo de instalação
 - Processo de personalização
 - Processo de operação
 - Processo de administração 
 - Processo de segurança 
-
+    
 sobre o sistema operacional focado. Elaboração de projetos de seleção e implantação de um sistema operacional.
 </h3>
 <br>
